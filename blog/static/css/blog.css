@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700&display=swap&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script&display=swap&subset=cyrillic');
+
+body {
+  margin: 0px;
+  padding-left: 20px;
+  font-family: "Montserrat";
+}
+
+
+
+.page-header{
+  text-align: center;
+
+}
+.pub-date{
+  font-family: 'Lobster';
+}
+
+.text-post{
+  font-family: 'Marck Script';
+  font-size: 30px;
+}
+
