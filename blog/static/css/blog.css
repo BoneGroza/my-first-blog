@@ -5,15 +5,20 @@
 body {
   margin: 0px;
   padding-left: 20px;
+  padding-right: 20px;
   font-family: "Montserrat";
+  background-color: #d6d6d6;
 }
 
 
 
-.page-header{
+.page-header  {
   text-align: center;
-
+  color: #fffccf;
+  background-color: #fffccf;
 }
+
+
 .pub-date{
   font-family: 'Lobster';
 }
@@ -23,3 +28,18 @@ body {
   font-size: 30px;
 }
 
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
